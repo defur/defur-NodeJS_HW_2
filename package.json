@@ -1,0 +1,9 @@
+{
+  "name": "nodejs_hw2",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "test.js",
+  "scripts": {
+    "start": "node test.js"
+  }
+}
